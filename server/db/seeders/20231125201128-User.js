@@ -28,7 +28,7 @@ module.exports = {
             shopName: 'Rus Coffee',
             description: 'Самый сложный кофе',
             photo:
-              'https://yt3.googleusercontent.com/f21umP1LCTz32JUpsmTT_OaNRuzZWrOZaAny264xyvuKO-EmxUYAfZ2BoE6350wCfiIZhvLacA=s900-c-k-c0x00ffffff-no-rj',
+              'https://p0.zoon.ru/preview/hycVr08mhBqqIRvxMujmjg/630x384x85/1/9/f/original_540f832240c088c5138deff1_594a2ce2f0c01.jpg',
             city: 'Санкт-Петербург',
             address: 'Лиговский проспект 140',
             menu: 'Латте, капучино, какао, раф',
@@ -43,7 +43,7 @@ module.exports = {
             shopName: 'MonkeyGrinder',
             description: 'Самый сложный кофе',
             photo:
-              'https://yt3.googleusercontent.com/f21umP1LCTz32JUpsmTT_OaNRuzZWrOZaAny264xyvuKO-EmxUYAfZ2BoE6350wCfiIZhvLacA=s900-c-k-c0x00ffffff-no-rj',
+              'https://p0.zoon.ru/preview/hycVr08mhBqqIRvxMujmjg/630x384x85/1/9/f/original_540f832240c088c5138deff1_594a2ce2f0c01.jpg',
             city: 'Санкт-Петербург',
             address: 'Салова 61',
             menu: 'Макиато, глясе, моккачино, сырный раф',
